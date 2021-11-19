@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addNote"
+        android:title="新建笔记"/>
+
+    <item
+        android:id="@+id/editAuthor"
+        android:title="编辑作者"/>
+
+    <item
+        android:id="@+id/quit"
+        android:title="退出"/>
+
+</menu>
